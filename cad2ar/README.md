@@ -4,7 +4,7 @@
 ***
 
 ## 0. Award
-<img src="./images/award.png" alt="Project Problem" width="600"/>
+<!---<img src="./images/award.png" alt="Project Problem" width="600"/> --->
 
 ***
 
